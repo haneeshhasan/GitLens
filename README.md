@@ -14,6 +14,10 @@ A sleek and modern GitHub profile viewer that allows you to search and explore G
 - 📱 Fully responsive design
 - 🎨 Beautiful gradient UI
 
+## 🎨 Preview
+
+<img src="./Screenshot 2025-02-12 092317.png" alt="GitLens Preview" width="400"/>
+
 
 ## 🛠️ Built With
 
