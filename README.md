@@ -2,7 +2,6 @@
 
 A sleek and modern GitHub profile viewer that allows you to search and explore GitHub user profiles with style.
 
-![GitLens Preview](Screenshot 2025-02-12 093511.png)
 
 ## ✨ Features
 
